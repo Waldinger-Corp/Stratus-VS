@@ -59,7 +59,7 @@ namespace Stratus
                 string data_source = "Data Source = (DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = IA-ORA-WALD)(PORT = 1521))" +
                                                        "(CONNECT_DATA =(SERVICE_NAME = WALDTEST.waldinger.com))" +
                                                     ");";
-                string connectionString = data_source + "User Id=joellen;Password=metson3011;";
+                string connectionString = data_source + "User Id=username;Password=password;";
                 using (var connection = new OracleConnection(connectionString))
                 {
                     int count = dt.Rows.Count;
