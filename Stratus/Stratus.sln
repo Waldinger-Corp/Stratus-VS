@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stratus", "Stratus.csproj", "{B537C7F0-A7DE-4D2E-BC92-4250BC0C01FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B537C7F0-A7DE-4D2E-BC92-4250BC0C01FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B537C7F0-A7DE-4D2E-BC92-4250BC0C01FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B537C7F0-A7DE-4D2E-BC92-4250BC0C01FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B537C7F0-A7DE-4D2E-BC92-4250BC0C01FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC701EA3-948F-4A3B-AF4E-244CB6AE0284}
+	EndGlobalSection
+EndGlobal
